@@ -1,0 +1,3 @@
+Simple app bundle wrapper for Wireshark built in Macports.
+Assumes /opt/local/bin/wireshark is the binary.
+Clone into /Applications/MacPorts/.
